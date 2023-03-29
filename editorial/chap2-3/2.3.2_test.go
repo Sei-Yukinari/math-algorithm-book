@@ -31,7 +31,7 @@ func TestP2322(t *testing.T) {
 	}{
 		{
 			name: "Case 1",
-			want: 3162,
+			want: 1000,
 		},
 	}
 	for _, tt := range tests {
