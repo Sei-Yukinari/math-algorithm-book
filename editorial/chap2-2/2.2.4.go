@@ -1,4 +1,4 @@
-package chap2_1
+package chap2_2
 
 func P2224(a []int) int {
 	sum := 0

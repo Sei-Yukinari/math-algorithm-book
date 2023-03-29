@@ -1,4 +1,4 @@
-package chap2_1
+package chap2_2
 
 type P2231Result struct {
 	answer1 int

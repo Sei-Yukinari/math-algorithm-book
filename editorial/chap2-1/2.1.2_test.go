@@ -1,4 +1,4 @@
-package chap2_1
+package chap2_2
 
 import "testing"
 
