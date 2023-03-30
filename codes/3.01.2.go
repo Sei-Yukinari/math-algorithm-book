@@ -1,0 +1,10 @@
+package main
+
+func C3012(n uint) bool {
+	for i := uint(2); i*i <= n; i++ {
+		if n%i == 0 {
+			return false
+		}
+	}
+	return true
+}
